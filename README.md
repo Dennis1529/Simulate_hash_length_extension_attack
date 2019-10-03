@@ -18,4 +18,5 @@ Hash length extension attack:
 send格式為” 你的偽造簽章,鏈接變量和”。server會先比對這個數位簽章，若相同再比對鏈接變量和，若鏈接變量和也相同便會噴出flag。
 
 原始程式碼:
+![image](https://github.com/Dennis1529/Simulate_hash_length_extension_attack/blob/master/code1.PNG)
 
