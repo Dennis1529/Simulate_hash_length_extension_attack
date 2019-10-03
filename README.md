@@ -19,4 +19,4 @@ send格式為” 你的偽造簽章,鏈接變量和”。server會先比對這�
 
 原始程式碼:
 ![image](https://github.com/Dennis1529/Simulate_hash_length_extension_attack/blob/master/code1.PNG)
-
+![image](https://github.com/Dennis1529/Simulate_hash_length_extension_attack/blob/master/code2.PNG)
