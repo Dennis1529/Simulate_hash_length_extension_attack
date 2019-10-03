@@ -4,7 +4,7 @@
 訓練用的語料庫為維基文檔 zhwiki-20190501-pages-articles.xml.bz2
 
 # Word2Vec model訓練
-載下維基文檔後 依序執行
+在下維基文檔後 依序執行
 
 1.抓取維基文章.py
 
