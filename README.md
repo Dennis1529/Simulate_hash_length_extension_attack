@@ -14,7 +14,7 @@
 
 4.word2vec模型訓練.py
 
-即產生Word2Vec將model 3個檔案丟進smart_recommend資料夾即完成訓練步驟
+即產生Word2Vec將model 3個檔案丟進'''smart_recommend'''資料夾即完成訓練步驟
 
 # 網頁呈現
 
@@ -65,6 +65,8 @@ npm start
 ``` javascript
 npm run dev
 ```
+### 資料夾移動
+將'''smart_recommend'''資料夾放入'''server'''資料夾中
 
 之後在網址連結打[localhost:8080](http://localhost:8080)便能看到內容
 
